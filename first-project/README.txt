@@ -6,7 +6,7 @@
 
 Hey guys!
 
-I've included a .pdf in a more friendly way to read the report from this assignment. As the assignment made it clead we had to include a readme.txt, I've included both, though I believe reading the pdf is easier than reading this file.
+I've included a .pdf in a more friendly way to read the report from this assignment. As the assignment made it clear we had to include a readme.txt, I've included both, though I believe reading the pdf is easier than reading this file.
 
 First of all, I have to provide an important disclaimer: instead of using the starter code, I've built my own website in Angular and used it to fulfill requirements for the current project.
 
