@@ -1,21 +1,25 @@
 # First Project Udacity
 
 ## Important information
-- [bucket endpoint](http://udacity-gucaobianco-project-1.s3-website-us-east-1.amazonaws.com/#/home)
-- [cloudfront url](https://d29qr9q4j781ta.cloudfront.net/#/home)
+- bucket endpoint: http://my-135116993753-bucket.s3-website-us-east-1.amazonaws.com/
+- cloudfront url: https://d1hjwqchmgtolo.cloudfront.net
 
-Hey guys!
+List of project requirements  and names of prints that demonstrate fullfiment of requirement
 
-I've included a .pdf in a more friendly way to read the report from this assignment. As the assignment made it clead we had to include a readme.txt, I've included both, though I believe reading the pdf is easier than reading this file.
+Section 1:  Website Files
 
-First of all, I have to provide an important disclaimer: instead of using the starter code, I've built my own website in Angular and used it to fulfill requirements for the current project.
+1.1 The student has created a S3 bucket. Print name: 1.1-bucket-visible.png
 
-My main language is PT-BR, and you may notice from the prints provided of my website that the text is in portuguese.
+1.2 All website files should be added to the S3 bucket. Print name: 1.2-bucket-with-all-files.png
 
-I hope this isn't an issue.
+1.3 The bucket configuration should be set up to support static website hosting. Print name: 1.3-bucket-enabled-static-hosting.png
 
-I've provided print screens for all topics mentioned in https://review.udacity.com/#!/rubrics/2573/view.
+1.4 The permission access to the bucket should be configured. Print name: 1.4-bucket-with-iam-policy.png
 
-Best regards,
+Section 2: Website Distribution
+
+2.1 The website should be distributed via Cloudfront. Print name: 2.1-cloudfrount-configured.png
+
+Section 3: Is the website publicly accessible? Print name: 3.1-website-available-bucket-endpoint.png AND 3.2-website-available-cloudfront-url.png
 
 Luiz Gustavo Caobianco
