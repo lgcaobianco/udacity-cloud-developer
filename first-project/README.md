@@ -6,6 +6,7 @@
 
 List of project requirements  and names of prints that demonstrate fullfiment of requirement
 
+
 Section 1:  Website Files
 
 1.1 The student has created a S3 bucket. Print name: 1.1-bucket-visible.png
